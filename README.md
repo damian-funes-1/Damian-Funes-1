@@ -36,10 +36,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Damian Funesshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Damian Funeslayout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=damian-funes-1=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
+ </div>
