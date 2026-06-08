@@ -11,7 +11,7 @@
 <br>
 
 - I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of Universidad Nacional de Hurlingham
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
+- I'm a student of Universidad Nacional de Hurlingham
+- I am currently focusing on developing skills as a programmer.
 - I would like to start developing my professional life as a beginner in programming.
 
