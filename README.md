@@ -24,9 +24,10 @@
 
 <h3>Connect with me <align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"/h3>
 
+<div>
 <a herf= "https://www.instagram.com/dami_funess/">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
- 
+</div>
 
 
